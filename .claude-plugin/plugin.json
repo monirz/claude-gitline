@@ -1,0 +1,6 @@
+{
+  "name": "gitline",
+  "version": "0.1.0",
+  "description": "Shows current folder and git branch above the prompt",
+  "author": { "name": "Monir" }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "gitline",
+  "owner": {
+    "name": "Monir"
+  },
+  "metadata": {
+    "description": "Starship-style folder and git branch line for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "gitline",
+      "source": "./",
+      "description": "Shows current folder and git branch above the prompt"
+    }
+  ]
+}
